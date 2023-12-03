@@ -1,0 +1,60 @@
+.small{
+    color:rgba(240, 39, 183, 0.89);
+}
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+    font-size: larger;
+}
+
+.half-width{
+    width: 50%;
+    text-align: justify;
+    
+       
+    
+}
+
+.half-width img{
+    height: 70%;
+    margin-left: 30%;
+}
+.top-banner{
+    display: flex;
+    margin-left: 10%;
+    margin-top: 5%;
+    
+}
+.link-button{
+    text-decoration: none;
+    background-image:linear-gradient(rgb(210, 55, 27), rgb(225, 28, 179) );
+    color: aliceblue;
+    padding: 10px 40px;
+    border-radius: 4px;
+    margin-top: 5px;
+}
+
+
+.last-part{
+
+   display: flex; 
+}
+.first-one{
+
+width: 40%;
+margin-left: 5%;
+margin-right: 5%;
+
+box-shadow: 10px 10px 40px gray;
+padding:20px;
+text-align: justify;
+border-image: linear-gradient(tomato,rgb(251, 0, 255) );
+border-image-slice: 1;
+border-left: 7px  solid;
+}
+footer p{
+text-align: center;
+color: gray;
+margin-top: 10px;
+}
